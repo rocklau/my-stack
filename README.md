@@ -26,6 +26,8 @@ fast-csv
 
 ini
 
+uuid
+
 ## dotnet 
 
 ## golang
